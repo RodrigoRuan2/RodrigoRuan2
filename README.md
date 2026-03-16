@@ -47,5 +47,5 @@ https://rodrigoruan2.github.io/repositorio/
 ---
 ## 📫 Contato
 
-LinkedIn  
-Email
+LinkedIn: www.linkedin.com/in/rodrigo-ruan-141499258
+Email: ruancamisaazul@gmail.com
