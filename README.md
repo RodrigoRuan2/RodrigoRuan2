@@ -22,14 +22,29 @@ Tenho interesse em criar aplicações web interativas e aprender mais sobre **es
 
 ---
 
-## 📊 GitHub Stats
+📂 Projetos
 
-![Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true)
+🔹 Quiz de Anime com React
+Aplicação interativa de perguntas e respostas sobre animes.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact)
+🔹 Netflix Clone
+Interface inspirada na Netflix consumindo API de filmes.
+
+🔹 pokedex, utilizando API
+Projeto de lógica e interação.
+
+🔹 E-commerce em React
+Simulação de loja online com componentes reutilizáveis.
 
 ---
+🌐 Portfólio
 
+Confira meus projetos completos no meu portfólio:
+
+🔗 Portfólio:
+https://rodrigoruan2.github.io/repositorio/
+
+---
 ## 📫 Contato
 
 LinkedIn  
