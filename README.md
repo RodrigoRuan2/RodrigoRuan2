@@ -19,6 +19,8 @@ Tenho interesse em criar aplicações web interativas e aprender mais sobre **es
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ---
 
@@ -33,8 +35,8 @@ Interface inspirada na Netflix consumindo API de filmes.
 🔹 pokedex, utilizando API
 Projeto de lógica e interação.
 
-🔹 E-commerce em React
-Simulação de loja online com componentes reutilizáveis.
+🔹 Tradutor OCR, feito em Python 
+Ferramenta desktop em Python que captura texto de qualquer parte da tela usando OCR e traduz instantaneamente para múltiplos idiomas. Funciona em jogos, PDFs, vídeos e qualquer programa — sem depender do Google Translate do navegador.
 
 ---
 🌐 Portfólio
@@ -42,7 +44,7 @@ Simulação de loja online com componentes reutilizáveis.
 Confira meus projetos completos no meu portfólio:
 
 🔗 Portfólio:
-https://rodrigoruan2.github.io/repositorio/
+https://rodrigoruan2.github.io/Portifolio/
 
 ---
 ## 📫 Contato
