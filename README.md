@@ -38,8 +38,9 @@ Projeto de lógica e interação.
 🔹 Tradutor OCR, feito em Python 
 Ferramenta desktop em Python que captura texto de qualquer parte da tela usando OCR e traduz instantaneamente para múltiplos idiomas. Funciona em jogos, PDFs, vídeos e qualquer programa — sem depender do Google Translate do navegador.
 
-🔹Calendario semanal de animes
+🔹 calendario semanal de animes
 Aplicação web para acompanhar os lançamentos semanais de animes e visualizar a grade da temporada atual — com suporte a favoritos, status de assistindo e muito mais.
+
 ---
 🌐 Portfólio
 
