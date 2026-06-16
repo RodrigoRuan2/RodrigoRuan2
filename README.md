@@ -47,11 +47,12 @@ Plataforma full-stack de e-commerce com curadoria premium. Desenvolvida com **Re
 
 | Projeto | Descrição | Deploy |
 |---|---|---|
+| [🌐 Portfólio](https://github.com/RodrigoRuan2/Portifolio) | Portfólio pessoal com todos os projetos | [🔗 Ver projeto](https://rodrigoruan2.github.io/Portifolio/) |
+| [📦 Localizador de Baú](https://github.com/RodrigoRuan2/localizador-de-bau) | Cronômetro de drop de baús do TBH com planejador de rota, guia das 120 fases e temas (React + Vite) | [🔗 Ver projeto](https://rodrigoruan2.github.io/localizador-de-bau/) |
 | [⛩️ Anime Calendar](https://github.com/RodrigoRuan2/anime-calendar-V3) | Calendário semanal de animes com favoritos e status de assistindo | [🔗 Ver projeto](https://rodrigoruan2.github.io/anime-calendar-V3/) |
 | [🎬 Netflix Clone](https://github.com/RodrigoRuan2/netflix-dashboard) | Clone da Netflix com TMDB API e autenticação Firebase | [🔗 Ver projeto](https://rodrigoruan2.github.io/netflix-dashboard/) |
 | [🧠 Quiz One Piece](https://github.com/RodrigoRuan2/Quiz-Onepiece2) | Quiz interativo sobre o universo de One Piece feito em React | [🔗 Ver projeto](https://rodrigoruan2.github.io/Quiz-Onepiece2/) |
 | [🖥️ Tradutor OCR](https://github.com/RodrigoRuan2/tradutor-ocr) | Ferramenta desktop em Python que captura e traduz texto da tela em tempo real | Desktop (.exe) |
-| [🌐 Portfólio](https://github.com/RodrigoRuan2/Portifolio) | Portfólio pessoal com todos os projetos | [🔗 Ver projeto](https://rodrigoruan2.github.io/Portifolio/) |
 
 ---
 
