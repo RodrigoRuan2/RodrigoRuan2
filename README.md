@@ -8,7 +8,8 @@
 
 Sou estudante de Análise e Desenvolvimento de Sistemas com foco em **desenvolvimento front-end**.
 Gosto de criar aplicações web com interfaces modernas, consumo de APIs e boa experiência de usuário.
-Atualmente evoluindo em **React**, **TypeScript** e integrações com back-end.
+Atualmente evoluindo em **React**, **TypeScript** e integrações com back-end — e explorando
+**IA local**: LLMs, agentes e geração de imagem rodando no meu próprio hardware.
 
 ---
 
@@ -28,7 +29,24 @@ Atualmente evoluindo em **React**, **TypeScript** e integrações com back-end.
 
 ---
 
-## ⭐ Projeto em Destaque
+## ⭐ Projetos em Destaque
+
+### [🤖 Yato — assistente de IA 100% local](https://github.com/RodrigoRuan2/yato-assistente-ia-local)
+
+Assistente de desktop com personalidade própria, rodando **inteiramente na minha máquina**
+(RTX de 8GB) — sem nuvem e sem nenhuma API paga.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RodrigoRuan2/yato-assistente-ia-local/main/yato-py/assets/vitrine/chat-avatar.png" width="600" alt="Yato — chat com avatar Live2D">
+</p>
+
+- 💬 Chat **agente** com LLM local (Ollama): busca na web, memória de fatos e visão
+- 🔊 Voz e ouvido **offline** (Piper + Whisper)
+- 🎭 Avatar **Live2D com lip-sync** em janela transparente (Electron)
+- 🎨 Estúdio de imagem com **Stable Diffusion** e biblioteca de moldes de prompt
+- ⚙️ O desafio: orquestrar 3 modelos de IA se **revezando** numa GPU de 8GB
+
+`Python` `Ollama` `Stable Diffusion` `CustomTkinter` `Electron` `Live2D`
 
 ### [🛍️ Lumen E-commerce](https://github.com/RodrigoRuan2/lumen-ecommerce) · [🔗 Deploy](https://rodrigoruan2.github.io/lumen-ecommerce/)
 
