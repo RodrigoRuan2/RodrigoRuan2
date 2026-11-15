@@ -31,22 +31,26 @@ Atualmente evoluindo em **React**, **TypeScript** e integrações com back-end �
 
 ## ⭐ Projetos em Destaque
 
-### [🤖 Yato — assistente de IA 100% local](https://github.com/RodrigoRuan2/yato-assistente-ia-local)
+### [🤖 Yato — assistente de IA local com avatar próprio](https://github.com/RodrigoRuan2/yato-assistente-ia-local)
 
-Assistente de desktop com personalidade própria, rodando **inteiramente na minha máquina**
-(RTX de 8GB) — sem nuvem e sem nenhuma API paga.
+Assistente de desktop com personalidade própria e **avatar chibi original do Yato**.
+A IA roda localmente pelo **Ollama**, com memória individual e sem exigir uma API paga.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RodrigoRuan2/yato-assistente-ia-local/main/yato-py/assets/vitrine/chat-avatar.png" width="600" alt="Yato — chat com avatar Live2D">
+  <img src="https://raw.githubusercontent.com/RodrigoRuan2/yato-assistente-ia-local/main/yato-py/assets/vitrine/yato-chibi.png" width="260" alt="Avatar próprio do Yato: chibi de corpo inteiro, cabelo escuro, olhos violetas e roupa preta com detalhes roxos">
 </p>
 
-- 💬 Chat **agente** com LLM local (Ollama): busca na web, memória de fatos e visão
-- 🔊 Voz e ouvido **offline** (Piper + Whisper)
-- 🎭 Avatar **Live2D com lip-sync** em janela transparente (Electron)
-- 🎨 Estúdio de imagem com **Stable Diffusion** e biblioteca de moldes de prompt
-- ⚙️ O desafio: orquestrar 3 modelos de IA se **revezando** numa GPU de 8GB
+- 🎭 **Avatar próprio** em janela transparente: respiração, piscadas, caminhada com pausas e efeitos visuais
+- 💬 **Dois balões**: conversa com a IA e pequenos comentários de horário acima da cabeça
+- 🧠 **Memória local e individual**: contexto de conversa e preferências que cada pessoa ensina
+- 💤 **Modo Só mini Yato**: funciona sem a janela principal, carrega a IA sob demanda e libera o modelo após inatividade
+- 🔊 Chat principal com voz e ouvido offline; 🎨 estúdio de imagem com Stable Diffusion
 
-`Python` `Ollama` `Stable Diffusion` `CustomTkinter` `Electron` `Live2D`
+O **beta-1 está preservado**. O modo mini evolui em uma versão separada:
+**[ver código e instruções](https://github.com/RodrigoRuan2/yato-assistente-ia-local/tree/experiment/mini-yato-solo/yato-py/mini-yato)** · **[medições de consumo](https://github.com/RodrigoRuan2/yato-assistente-ia-local/blob/experiment/mini-yato-solo/yato-py/mini-yato/MEDICOES.md)**.
+Conversas, memórias e preferências ficam fora do GitHub. Pesquisa web e notícias usam a internet quando solicitadas.
+
+`Python` `Ollama` `Electron` `Animação 2D` `CustomTkinter` `Stable Diffusion`
 
 ### [🛍️ Lumen E-commerce](https://github.com/RodrigoRuan2/lumen-ecommerce) · [🔗 Deploy](https://rodrigoruan2.github.io/lumen-ecommerce/)
 
